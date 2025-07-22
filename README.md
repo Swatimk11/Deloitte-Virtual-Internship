@@ -1,7 +1,7 @@
-# Deloitte-Virtual-Internship
-Completed Deloitte Australia's Data Analytics Virtual Experience on Forage. Worked on data classification in Excel, created dashboards in Tableau, and analyzed data to provide business insights using forensic technology.
 
 # Deloitte Australia Data Analytics Virtual Experience
+Completed Deloitte Australia's Data Analytics Virtual Experience on Forage. Worked on data classification in Excel, created dashboards in Tableau, and analyzed data to provide business insights using forensic technology.
+
 
 This repository contains my work from the **Deloitte Australia Data Analytics** Virtual Experience Program hosted on [Forage](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy).
 
